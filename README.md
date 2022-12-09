@@ -1,2 +1,4 @@
 # simple-chat-app-FE
-front end for a simple chat app
+Back-end API for a simple chat app
+
+please set .env for PORT and MONGOSERVER
